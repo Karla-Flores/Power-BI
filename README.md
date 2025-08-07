@@ -7,4 +7,6 @@
 
 <h3>Regions</h3>
 <br>
-<p align = 'center'><img src=""></p>
+<p align = 'center'><img src="https://github.com/Karla-Flores/Power-BI/blob/main/Region.png"></p>
+<br>
+<p align = 'center'><img src="https://github.com/Karla-Flores/Power-BI/blob/main/Region%202.png"></p>
